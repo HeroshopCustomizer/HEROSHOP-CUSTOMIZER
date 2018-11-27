@@ -1,14 +1,14 @@
 {
-  "main.css": "/baseballmk5/static/css/main.55ce1090.chunk.css",
-  "main.js": "/baseballmk5/static/js/main.cc4c2623.chunk.js",
-  "main.js.map": "/baseballmk5/static/js/main.cc4c2623.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/baseballmk5/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/baseballmk5/static/js/1.2dd891c4.chunk.js.map",
+  "main.css": "/baseballmk5/static/css/main.da9beeb8.chunk.css",
+  "main.js": "/baseballmk5/static/js/main.578f3372.chunk.js",
+  "main.js.map": "/baseballmk5/static/js/main.578f3372.chunk.js.map",
+  "static/js/1.9d0fe39f.chunk.js": "/baseballmk5/static/js/1.9d0fe39f.chunk.js",
+  "static/js/1.9d0fe39f.chunk.js.map": "/baseballmk5/static/js/1.9d0fe39f.chunk.js.map",
   "runtime~main.js": "/baseballmk5/static/js/runtime~main.c6986d8e.js",
   "runtime~main.js.map": "/baseballmk5/static/js/runtime~main.c6986d8e.js.map",
   "static/media/logo.svg": "/baseballmk5/static/media/logo.5d5d9eef.svg",
-  "static/css/main.55ce1090.chunk.css.map": "/baseballmk5/static/css/main.55ce1090.chunk.css.map",
+  "static/css/main.da9beeb8.chunk.css.map": "/baseballmk5/static/css/main.da9beeb8.chunk.css.map",
   "index.html": "/baseballmk5/index.html",
-  "precache-manifest.48af7d41343afe8263761a1f99034a1d.js": "/baseballmk5/precache-manifest.48af7d41343afe8263761a1f99034a1d.js",
+  "precache-manifest.2f46abccc91a9c65294e9e0296c9dbfa.js": "/baseballmk5/precache-manifest.2f46abccc91a9c65294e9e0296c9dbfa.js",
   "service-worker.js": "/baseballmk5/service-worker.js"
 }
