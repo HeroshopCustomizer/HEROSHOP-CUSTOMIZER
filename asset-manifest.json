@@ -1,14 +1,14 @@
 {
-  "main.css": "/HEROSHOP-CUSTOMIZER/static/css/main.da9beeb8.chunk.css",
-  "main.js": "/HEROSHOP-CUSTOMIZER/static/js/main.2573236d.chunk.js",
-  "main.js.map": "/HEROSHOP-CUSTOMIZER/static/js/main.2573236d.chunk.js.map",
-  "static/js/1.9d0fe39f.chunk.js": "/HEROSHOP-CUSTOMIZER/static/js/1.9d0fe39f.chunk.js",
-  "static/js/1.9d0fe39f.chunk.js.map": "/HEROSHOP-CUSTOMIZER/static/js/1.9d0fe39f.chunk.js.map",
-  "runtime~main.js": "/HEROSHOP-CUSTOMIZER/static/js/runtime~main.19759654.js",
-  "runtime~main.js.map": "/HEROSHOP-CUSTOMIZER/static/js/runtime~main.19759654.js.map",
-  "static/media/logo.svg": "/HEROSHOP-CUSTOMIZER/static/media/logo.5d5d9eef.svg",
-  "static/css/main.da9beeb8.chunk.css.map": "/HEROSHOP-CUSTOMIZER/static/css/main.da9beeb8.chunk.css.map",
-  "index.html": "/HEROSHOP-CUSTOMIZER/index.html",
-  "precache-manifest.2e0ad4ca17c8809f09cdc0b1e2f617f0.js": "/HEROSHOP-CUSTOMIZER/precache-manifest.2e0ad4ca17c8809f09cdc0b1e2f617f0.js",
-  "service-worker.js": "/HEROSHOP-CUSTOMIZER/service-worker.js"
+  "main.css": "/b45baseball/static/css/main.da9beeb8.chunk.css",
+  "main.js": "/b45baseball/static/js/main.053a1c32.chunk.js",
+  "main.js.map": "/b45baseball/static/js/main.053a1c32.chunk.js.map",
+  "static/js/1.9d0fe39f.chunk.js": "/b45baseball/static/js/1.9d0fe39f.chunk.js",
+  "static/js/1.9d0fe39f.chunk.js.map": "/b45baseball/static/js/1.9d0fe39f.chunk.js.map",
+  "runtime~main.js": "/b45baseball/static/js/runtime~main.5450808f.js",
+  "runtime~main.js.map": "/b45baseball/static/js/runtime~main.5450808f.js.map",
+  "static/media/logo.svg": "/b45baseball/static/media/logo.5d5d9eef.svg",
+  "static/css/main.da9beeb8.chunk.css.map": "/b45baseball/static/css/main.da9beeb8.chunk.css.map",
+  "index.html": "/b45baseball/index.html",
+  "precache-manifest.611fcb3771662299e8019ad95e5162ac.js": "/b45baseball/precache-manifest.611fcb3771662299e8019ad95e5162ac.js",
+  "service-worker.js": "/b45baseball/service-worker.js"
 }
