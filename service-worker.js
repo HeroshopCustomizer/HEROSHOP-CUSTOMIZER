@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/b45baseball/precache-manifest.611fcb3771662299e8019ad95e5162ac.js"
+  "/baseballmk5/precache-manifest.2f46abccc91a9c65294e9e0296c9dbfa.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/b45baseball/index.html", {
+workbox.routing.registerNavigationRoute("/baseballmk5/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
