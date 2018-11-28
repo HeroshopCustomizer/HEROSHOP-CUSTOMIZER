@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/baseballmk5/precache-manifest.2f46abccc91a9c65294e9e0296c9dbfa.js"
+  "/HEROSHOP-CUSTOMIZER/precache-manifest.2e0ad4ca17c8809f09cdc0b1e2f617f0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/baseballmk5/index.html", {
+workbox.routing.registerNavigationRoute("/HEROSHOP-CUSTOMIZER/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
